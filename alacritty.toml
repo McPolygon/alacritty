@@ -1,0 +1,4 @@
+[general]
+    import = ["~/.config/alacritty/window.toml",
+    "~/.config/alacritty/font.toml",
+    "~/.config/alacritty/catppuccin-macchiato.toml"]
